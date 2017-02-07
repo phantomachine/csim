@@ -2,7 +2,7 @@
 
 **C**ompetitive **S**earch with endogenous **I**ncomplete **M**arkets
 
-Python codes for the *Inflationary Redistribution vs. Trading Opportunities* by Timothy Kam and Junsang Lee
+Python codes for paper *Inflationary Redistribution vs. Trading Opportunities* by Timothy Kam and Junsang Lee
 
 Stationary monetary equilibrium in a competitive search environment with limited and endogenous asset-market participation 
 
