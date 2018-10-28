@@ -49,8 +49,8 @@ Written by Timothy Kam, with Junsang Lee.
 ## License
 
 The GNU GPL v.3.0 terms apply everywhere to these codes and subsequent uses and modifications of them (see LICENCE). Please cite this original source in all your work (i.e., your own paper and source codes) as:
-      * Paper: T. Kam and J. Lee (2017): "TITLE OF PAPER", *Journal Details*
-      * Code: https://github.com/phantomachine/cssegmart/
+      * Paper: T. Kam and J. Lee (2017): **Inflationary Redistribution vs Trading Opportunities**: *A New-Monetarist Heterogeneous-agent Quantitative Theory*, *Journal Details TBA*
+      * Source: https://github.com/phantomachine/csim/
 
   See CHANGELOG file for recent updates/bug-fix details.
 
