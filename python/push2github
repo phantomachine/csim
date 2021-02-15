@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+
+# ON YOUR LOCAL MACHINE
+# --------------------------------------------------------------------------
+# This BASH script assumes you have a current directory preset as "origin"
+# for your remote master repo. If not do this:
+#
+#   git init
+#   git remote add origin your-github-repo-address
+#   git remote -v
+#
+# WEB HOSTING ON YOUR GITHUB REPO
+# --------------------------------------------------------------------------
+# Ensure that you enable GitHub Pages hosting in your MASTER repo:
+# Go to: Settings > Options > GitHub Pages > Source
+# Choose Source option: master/docs
+#
+# (c) 2017, Written by Timothy Kam, github.com/phantomachine
+
+
+
+# Add, commit and push up to GitHub
+echo "Syncing to GitHub"
+git add .
+git commit -m "Push it, push it some more"
+git push origin master
+echo "Goodnight, and good luck"
