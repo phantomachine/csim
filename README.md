@@ -19,8 +19,8 @@ A current version of the paper can be found here
 * SETOUTPATHS: Determine where to save results (.NPZ files) and figures (.PNG and .EPS files)
  * Users need to customize to own computer setting
  
-Python 2.7/3.6 code for solving and simulating monetary equilibria in the model of Kam and Lee (2017). Code uses MPI4Py and OpenMPI for parallel computation.
-(c) Copyright 2017-, Timothy Kam and Junsang Lee. Contact: tcy.kam@gmail.com
+Python 2.7/3.6 code for solving and simulating monetary equilibria in the model of Kam and Lee (2020). Code uses MPI4Py and OpenMPI for parallel computation.
+(c) Copyright 2020-, Timothy Kam and Junsang Lee. Contact: tcy.kam@gmail.com
 
 ## Code Example
 
@@ -49,7 +49,7 @@ Written by Timothy Kam, with Junsang Lee.
 ## License
 
 The GNU GPL v.3.0 terms apply everywhere to these codes and subsequent uses and modifications of them (see LICENCE). Please cite this original source in all your work (i.e., your own paper and source codes) as:
-      * Paper: T. Kam and J. Lee (2017): **Inflationary Redistribution vs Trading Opportunities**: *A New-Monetarist Heterogeneous-agent Quantitative Theory*, *Journal Details TBA*
+      * Paper: T. Kam and J. Lee (2020): **Inflationary Redistribution vs Trading Opportunities**
       * Source: https://github.com/phantomachine/csim/
 
   See CHANGELOG file for recent updates/bug-fix details.
